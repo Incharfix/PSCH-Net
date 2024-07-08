@@ -1,0 +1,37 @@
+[
+    {
+        "taxonomy_id": "all",
+        "taxonomy_name": "Uncategorized Test Set",
+        "test": [
+
+        ],
+        "train": [],
+        "val": []
+    },
+    {
+        "taxonomy_id": "02691156",
+        "taxonomy_name": "airplane",
+        "test": [
+		
+
+"2689"
+		
+		],
+		"val": [
+		"2048",
+"
+
+"2689"
+
+],
+        "train": [
+
+
+
+
+        ]
+
+
+
+    }
+]
